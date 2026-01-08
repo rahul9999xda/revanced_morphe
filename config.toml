@@ -41,12 +41,12 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 # https://github.com/j-hc/revanced-magisk-module/issues/554
 [Music-Morphe]
 enabled = true
+arch = "arm64-v8a"
 app-name = "Music"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "ReVanced Morphe"
 build-mode = "both"
-arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
 [YouTube-Morphe]
