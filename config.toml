@@ -53,6 +53,15 @@ patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "ReVanced Morphe"
 build-mode = "both"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+
+[YouTube-Morphe-Beta]
+enabled = true
+app-name = "YouTube"
+patches-source = "MorpheApp/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+rv-brand = "ReVanced Morphe Beta"
+build-mode = "both"
 version = "21.02.32"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
