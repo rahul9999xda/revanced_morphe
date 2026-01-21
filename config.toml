@@ -77,7 +77,7 @@ cli-source = "MorpheApp/morphe-cli"
 rv-brand = "ReVanced Morphe Beta"
 build-mode = "apk"
 version = "21.03.36"
-apkmirror-dlurl = "https://m.apkpure.com/youtube-2025/com.google.android.youtube"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Twitch]
 enabled = false
