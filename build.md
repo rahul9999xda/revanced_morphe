@@ -1,4 +1,4 @@
-GooglePhotos: 7.59.0.856624550  
+GooglePhotos: 7.60.0.859276722  
 Music: 8.10.52  
 Music-Morphe: 8.37.56  
 Music-Morphe-Beta: 9.03.52  
@@ -19,5 +19,5 @@ CLI: MorpheApp/morphe-cli-1.1.0-all.jar 
 CLI: MorpheApp/morphe-cli-1.1.0-all.jar  
 CLI: MorpheApp/morphe-cli-1.1.0-all.jar  
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.48.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.48.0)  
+Patches: ReVanced/patches-5.49.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.49.0)  
