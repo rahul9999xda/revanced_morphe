@@ -1,4 +1,4 @@
-GooglePhotos: 7.60.0.859276722  
+GooglePhotos: 7.61.0.860908034  
 Music: 8.10.52  
 Music-Morphe: 8.40.54  
 Music-Morphe-Beta: 9.03.52  
