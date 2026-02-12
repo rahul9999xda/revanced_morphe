@@ -79,7 +79,7 @@ rv-brand = "ReVanced Morphe Beta"
 build-mode = "apk"
 version = "21.06.257"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+#uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [Twitch]
 enabled = false
