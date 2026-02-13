@@ -58,7 +58,7 @@ cli-source = "MorpheApp/morphe-cli"
 rv-brand = "ReVanced Morphe Beta"
 build-mode = "apk"
 version = "9.06.51"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [YouTube-Morphe]
@@ -77,9 +77,9 @@ patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "ReVanced Morphe Beta"
 build-mode = "apk"
-version = "21.06.257"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-#uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+version = "21.06.259"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [Twitch]
 enabled = false
