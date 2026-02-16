@@ -1,5 +1,6 @@
 GooglePhotos: 7.63.0.869312946  
 Music: 8.10.52  
+Music-Morphe: 8.40.54  
 Music-Morphe-Beta: 9.06.51  
 YouTube: 20.14.43  
 YouTube-Morphe: 20.40.45  
